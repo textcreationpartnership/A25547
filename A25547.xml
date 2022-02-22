@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a printed protestation made by some of the societies of the Inns of Court, against dutiful addresses with thanks to His Majesty for his most gracious declaration to all his loving subjects / written by an old cavalier.</title>
+            <author>Old cavalier.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25547</idno>
+            <idno type="STC">Wing A3341</idno>
+            <idno type="STC">ESTC R38500</idno>
+            <idno type="EEBO-CITATION">17513581</idno>
+            <idno type="OCLC">ocm 17513581</idno>
+            <idno type="VID">106533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a printed protestation made by some of the societies of the Inns of Court, against dutiful addresses with thanks to His Majesty for his most gracious declaration to all his loving subjects / written by an old cavalier.</title>
+                  <author>Old cavalier.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Anecdotes</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:106533:1" rendition="simple:additions"/>
+            <head>An <hi>Anſwer</hi> to a <hi>Printed Proteſtation</hi> made by ſome of the Societies of the <hi>Inns of Court,</hi> againſt <hi>Dutiful Addreſſes:</hi> with Thanks to His Majeſty for his moſt Gracious <hi>Declaration</hi> to all his Loving Subjects.</head>
+            <byline>Written by an Old Cavalier.</byline>
+            <l>
+               <hi>GEntlemen,</hi> I admire not that you diſagree,</l>
+            <l>By Diſcords you have gotten many a Fee:</l>
+            <l>You now make known averſeneſs to a thing,</l>
+            <l>When Loyal hearts do ſtrive to treat their King.</l>
+            <l>I do admire your Reaſons, you ſhould rather</l>
+            <l>Maintain thoſe Laws (perverted) kill'd his Father.</l>
+            <l>Thoſe noble good Laws which your ſtudious care</l>
+            <l>Hath made you know, ſhould have a double ſhare</l>
+            <l>Of Loyalty and Duty, and not Paſſion,</l>
+            <l>T' affront a Loyal zeal in ſuch a faſhion,</l>
+            <l>(As to proteſt againſt it:) be not furious,</l>
+            <l>Heats againſt Duty may become Injurious.</l>
+            <l>If the true matter may be freely ſpoken,</l>
+            <l>The <hi>Bond of Unity</hi> 'tis you have broken,</l>
+            <l>By your oppoſing Duty, in a thing</l>
+            <l>Conſiſting with the Laws; to thank their King</l>
+            <l>For's condeſcending Favours, which doth flow</l>
+            <l>From his pure Goodneſs, which doth always ſhew</l>
+            <l>Bountiful Encouragements to your Profeſſion;</l>
+            <l>And muſt he be requited with Tranſgreſſion?</l>
+            <l>Can you but know that from the Kingly Powers,</l>
+            <l>Your Riſe and Honours have had Sov'raign ſhowrs</l>
+            <l>Of bountiful Immunities from the Crown?</l>
+            <l>Which Lawleſs perſons fain would tumble down.</l>
+            <l>The King hath promis'd, and doth ſtill declare,</l>
+            <l>To maintain the Laws againſt them that dare</l>
+            <l>Abuſe them; may you not fairly repoſe</l>
+            <l>In quiet, but create your ſelves new Foes</l>
+            <l>Amongſt your ſelves, as though your learned Skill</l>
+            <l>Was thus to Rant, and vent your furious will?</l>
+            <l>Is't to be thought unwiſe if chat you bring</l>
+            <l>A thankful Offering to ſo good a King?</l>
+            <l>A King that is ſo jealous of th'abuſe</l>
+            <l>Of Laws, that he puniſheth the profuſe</l>
+            <l>
+               <pb n="2" facs="tcp:106533:2"/>
+Diſturbers of its peace, and doth command</l>
+            <l>A due Obedience throughout the Land:</l>
+            <l>And your Societies he doth maintain,</l>
+            <l>To your great Honour, and exceeding Gain.</l>
+            <l>Then ſhould it be your Duty to give Thanks,</l>
+            <l>Not to oppoſe him with your vainer Pranks,</l>
+            <l>More looking like a Conventicle Fry,</l>
+            <l>Then from a learned grave Society;</l>
+            <l>Which ſhould be Leaders on in ſuch an Action,</l>
+            <l>But your high Walls I ſee can't keep out Faction;</l>
+            <l>A Leproſie ſo ſpread beyond its border,</l>
+            <l>And it is ſtrange it ſhould beget diſorder</l>
+            <l>In perſons of great Parts and Education,</l>
+            <l>Should thus become Diſturbers of the Nation,</l>
+            <l>Or Animators in this evil day,</l>
+            <l>Where Lawleſs perſons labour to bear ſway;</l>
+            <l>Controul the Laws in force, make them as Flax,</l>
+            <l>And turn it to their uſe like Noſe of Wax.</l>
+            <l>Let them have care that Hemp be not their merit,</l>
+            <l>A Tribute due to men of ſuch a Spirit.</l>
+            <l>Conſider it again this long Vacation,</l>
+            <l>The ill Example you have ſhewn the Nation:</l>
+            <l>Other Societies, and of the Gown,</l>
+            <l>Have paid moſt Loyal Duty from their Town;</l>
+            <l>Corporations have abounded with Addreſſes,</l>
+            <l>And muſt yours be the only ſowr Meſſes?</l>
+            <l>Muſt the King ſtill have ſuch unſavoury Diet?</l>
+            <l>Nothing of pleaſing Taſt, leſt it diſquiet</l>
+            <l>Your ſqueazy Stomachs? you of your Profeſſion</l>
+            <l>Should cheriſh Duty, not think't a Tranſgreſſion</l>
+            <l>For to be grateful; your Preſident is ill,</l>
+            <l>Y' encourage Slighting, and do Duty kill.</l>
+            <l>Conſider it anew, return to Duty,</l>
+            <l>Then will you give Societies a Beauty</l>
+            <l>Which will look lovely, not like <hi>Janus</hi> Faces,</l>
+            <l>Look both ways, to your very great diſgraces.</l>
+            <l>Remind your Educations and your Birth,</l>
+            <l>For Princely Powers can Honour you on Earth:</l>
+            <l>Powers Divine I'me ſure pays Gratitude,</l>
+            <l>Rejects th'ungrateful, paſſionate and rude</l>
+            <l>Oppoſers of due Reverence to their Prince:</l>
+            <l>From ſuch Societies, God keep me thence.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>N. T.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
